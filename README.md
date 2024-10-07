@@ -6,7 +6,7 @@ Hi there! 👋
 
 💞️ I’m looking to collaborate on: AI and machine learning projects, web applications, and open-source contributions.
 
-📫 How to reach me: [ananyashreekg933@gmail.com] or connect with me on [https://www.linkedin.com/in/ananyashree-k-g-72830a241/].
+📫 How to reach me: ananyashreekg933@gmail.com or connect with me on https://www.linkedin.com/in/ananyashree-k-g-72830a241/.
 
 <!---
 Ananyashreekg/Ananyashreekg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
