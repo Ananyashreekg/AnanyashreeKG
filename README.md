@@ -1,6 +1,6 @@
 Hi there! 👋 
 
-Here is my https://ananyashreekg.github.io/skills
+Here is my  https://ananyashreekg.github.io/my-portfolio/
 
 👀 I’m interested in: Machine Learning, Deep Learning, Web Development, and Software Engineering.
 
