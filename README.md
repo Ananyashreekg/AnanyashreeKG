@@ -1,16 +1,9 @@
-Hi there! 👋 
+# 👋 Hi, I'm Ananyashree  
 
-Here is my  https://ananyashreekg.github.io/my-portfolio/
+🚀 **Software Engineer** passionate about building scalable backend systems and solving real-world problems with clean, efficient code.  
 
-👀 I’m interested in: Machine Learning, Deep Learning, Web Development, and Software Engineering.
+👀 Interests: Machine Learning, Deep Learning, Web Development, and Software Engineering  
+🌱 Currently learning: **Node.js | Express.js | PostgreSQL | ClickHouse | Redis**  
+💞️ Open to collaborate on: AI/ML projects, web applications, and open-source contributions  
 
-🌱 I’m currently learning: Advanced Machine Learning techniques and React.js for front-end development.
-
-💞️ I’m looking to collaborate on: AI and machine learning projects, web applications, and open-source contributions.
-
-📫 How to reach me: ananyashreekg933@gmail.com or connect with me on https://www.linkedin.com/in/ananyashree-k-g-72830a241/.
-
-<!---
-Ananyashreekg/Ananyashreekg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Reach me: [Portfolio](https://ananyashreekg.github.io/my-portfolio/) | [LinkedIn](https://www.linkedin.com/in/ananyashree-k-g-72830a241/) | 📧 **ananyashreekg933@gmail.com**
